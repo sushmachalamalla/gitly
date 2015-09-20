@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-  cout<< "initial gitly"
-  return 0;
+	cout << "initial gitly" << endl;
+	return 0;
 }
